@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 ### :book:Skills:book:
-#### Language: <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
+#### Language: <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
+#### FrameWork: <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/>
 
 
 [![Koby's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksun0401&show_icons=true&theme=solarized-light&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
