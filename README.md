@@ -1,4 +1,4 @@
-## 머신러닝 전문가가  학생입니다 :yum:
+## 머신러닝 전문가가 되고픈 학생입니다 :yum:
 
 <!--
 **ksun0401/ksun0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
