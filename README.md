@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **ksun0401/ksun0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-#### :book:Skills:book:
+### :book:Skills:book:
+- Language
+<img src="https://img.shields.io/badge/python-61DAFB?style=flat&logo=Python&logoColor=white"/>
 
 
 [![Koby's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksun0401&show_icons=true&theme=solarized-light&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
