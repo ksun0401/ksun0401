@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-#### 😀 Languages 😀
+#### :book:Skills:book:
 
 
 [![Koby's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksun0401&show_icons=true&theme=solarized-light&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
