@@ -1,4 +1,4 @@
-## AI 전문가가 되고픈 학생입니다 :yum:
+## 오늘의 교훈: 정신없이 사는거야 :yum:
 
 <!--
 **ksun0401/ksun0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
