@@ -1,4 +1,4 @@
-## 오늘의 교훈: 정신없이 사는거야 :yum:
+## 오늘의 교훈: 정신없이 사는거야 😎
 
 <!--
 **ksun0401/ksun0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
