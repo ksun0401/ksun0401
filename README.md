@@ -1,4 +1,4 @@
-## 정신없이 살아보자 😎
+## 😎
 
 <!--
 **ksun0401/ksun0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
