@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 #### Tool: <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 
 
-
+[![Koby's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksun0401&show_icons=true&theme=solarized-light&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
