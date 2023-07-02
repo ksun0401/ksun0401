@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=mariaDB&logoColor=white"> 
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=MongoDB&logoColor=white">
 </div>
 
 #### Current<br/>
