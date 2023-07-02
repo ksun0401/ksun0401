@@ -32,12 +32,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 </div>
 
-#### Current<br/>
-##### 데이터 청년 캠퍼스 [23.06 ~ .ing]
-
+### Current<br/>
+#### 데이터 청년 캠퍼스 [23.06 ~ 23.08(ing)]
 
 |주최|대회|Repo|
 |:---:|:---:|:---:|
-|왼쪽정렬|오른쪽정렬|중앙정렬|
-|왼쪽정렬|오른쪽정렬|중앙정렬|
-|왼쪽정렬|오른쪽정렬|중앙정렬|
+|Dacon Basic|||
+||||
+|왼쪽정렬|||
