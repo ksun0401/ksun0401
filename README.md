@@ -26,6 +26,10 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=mariaDB&logoColor=white"> 
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=mariaDB&logoColor=white"> 
+  <img src="https://img.shields.io/badge/numpy-#013243?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-#150458?style=for-the-badge&logo=MongoDB&logoColor=white">
 </div>
 
 #### Current<br/>
