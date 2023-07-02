@@ -1,14 +1,11 @@
 ## 😎
 
-<!--
 **ksun0401/ksun0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I'm an undergraduate at Kangnam University.
 - :computer: My major is Data Science.
---> 
-
+-  
 <div align=center><h2>📚 STACKS</h2></div>
-
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=python&logoColor=white"> 
