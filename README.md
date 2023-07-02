@@ -4,7 +4,7 @@
 -->
 - 🔭 I'm an undergraduate at Kangnam University.
 - :computer: My major is Data Science.
-- currently I'm studying [데이터 청년 캠퍼스 in 고려대](https://dataonair.or.kr/bigjob/)
+- :page_with_curl: Currently I'm studying [데이터 청년 캠퍼스 in 고려대](https://dataonair.or.kr/bigjob/)
 
 <div align=center><h2>📚 STACKS</h2></div>
 <div align=center> 
