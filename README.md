@@ -3,16 +3,8 @@
 <!--
 **ksun0401/ksun0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I'm an undergraduate at Kangnam University.
+- :computer: My major is Data Science.
 --> 
 
 <div align=center><h2>📚 STACKS</h2></div>
@@ -32,8 +24,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 </div>
 
-### Current<br/>
-#### 데이터 청년 캠퍼스 [23.06 ~ 23.08(ing)]
 
 |주최|대회|Repo|
 |:---:|:---:|:---:|
