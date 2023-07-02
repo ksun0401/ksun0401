@@ -6,7 +6,7 @@
 - :computer: My major is Data Science.
 - :page_with_curl: Currently I'm studying [데이터 청년 캠퍼스 in 고려대](https://dataonair.or.kr/bigjob/)
 
-<div align=center><h4>📚 STACKS</h4></div>
+<div align=center><h3>📚 STACKS</h3></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=python&logoColor=white"> 
